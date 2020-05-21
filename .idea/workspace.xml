@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa0cb4d-2f62-4745-9adb-e2d2e9b74bb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqKmxt6opwzXb9uybGTyfETmkV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka-basics" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26666668" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-basics" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-basics\src\main\java" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-producer-twitter\src\main\java" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-basics\src\main\java\com\github\pius\kafka\kafkabasics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-connect\connectors" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-connect" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-connect\connectors\kafka-connect-twitter-0.2.26" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-basics\src\main\java\com\github\pius" />
+      <recent name="D:\Code\JAVA\KAFKA\kafka-beginners-course\kafka-basics\src\main\java\com\github\pius\kafka\kafkabasics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TwitterProducer (1)">
+    <configuration name="ConsumerDemoGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial.ConsumerDemoGroups" />
+      <module name="kafka-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial3.ElasticSearchConsumer" />
+      <module name="kafka-consumer-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial.ProducerDemo" />
+      <module name="kafka-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.pius.kafka.StreamsFilterTweets" />
+      <module name="kafka-streams-filter-tweets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.pius.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.tutorial2.TwitterProducer" />
+      <module name="kafka-producer-twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kafka.tutorial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProducerDemo (1)" />
+      <item itemvalue="Application.ElasticSearchConsumer" />
+      <item itemvalue="Application.ConsumerDemoGroups" />
+      <item itemvalue="Application.StreamsFilterTweets" />
+      <item itemvalue="Application.TwitterProducer (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamsFilterTweets" />
+        <item itemvalue="Application.TwitterProducer (1)" />
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.ConsumerDemoGroups" />
+        <item itemvalue="Application.ProducerDemo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa0cb4d-2f62-4745-9adb-e2d2e9b74bb2" name="Default Changelist" comment="" />
+      <created>1585561346441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585561346441</updated>
+      <workItem from="1585561350395" duration="7667000" />
+      <workItem from="1585757819639" duration="7835000" />
+      <workItem from="1585939331401" duration="598000" />
+      <workItem from="1585950956504" duration="4073000" />
+      <workItem from="1586197556945" duration="1505000" />
+      <workItem from="1586288560286" duration="1269000" />
+      <workItem from="1586457827789" duration="606000" />
+      <workItem from="1586629703964" duration="619000" />
+      <workItem from="1586704140972" duration="1197000" />
+      <workItem from="1586792632353" duration="598000" />
+      <workItem from="1586814007846" duration="1061000" />
+      <workItem from="1586868648522" duration="613000" />
+      <workItem from="1587150874180" duration="1802000" />
+      <workItem from="1587560864870" duration="6000" />
+      <workItem from="1588407992318" duration="1698000" />
+      <workItem from="1588582815550" duration="598000" />
+      <workItem from="1588583700271" duration="427000" />
+      <workItem from="1588591093881" duration="5168000" />
+      <workItem from="1588772462867" duration="6971000" />
+      <workItem from="1589013687742" duration="973000" />
+      <workItem from="1589018802653" duration="841000" />
+      <workItem from="1589019665485" duration="1373000" />
+      <workItem from="1589021052833" duration="174000" />
+      <workItem from="1589021239254" duration="182000" />
+      <workItem from="1589021466244" duration="207000" />
+      <workItem from="1589021681855" duration="66000" />
+      <workItem from="1589021757487" duration="94000" />
+      <workItem from="1589021860804" duration="425000" />
+      <workItem from="1589022298914" duration="607000" />
+      <workItem from="1589022985955" duration="103000" />
+      <workItem from="1589044372771" duration="2657000" />
+      <workItem from="1589047044674" duration="3114000" />
+      <workItem from="1589097531776" duration="9631000" />
+      <workItem from="1590046457959" duration="6935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585772646235">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1585772646235" />
+    <state x="285" y="262" key="#com.intellij.ide.util.MemberChooser" timestamp="1586106267639">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="285" y="262" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1586106267639" />
+    <state x="206" y="440" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585570162276">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="206" y="440" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.30.1920.1050@0.30.1920.1050" timestamp="1585570162276" />
+    <state x="300" y="296" key="FileChooserDialogImpl" timestamp="1589045876355">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="300" y="296" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1589045876355" />
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1590063075679">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1590063075679" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1590063075679">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1590063075679" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1590063075679">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1590063075679" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1590063075679">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1590063075679" />
+    <state width="914" height="329" key="GridCell.Tab.1.bottom" timestamp="1586108414979">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="329" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1586108414979" />
+    <state width="914" height="329" key="GridCell.Tab.1.center" timestamp="1586108414979">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="329" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1586108414979" />
+    <state width="914" height="329" key="GridCell.Tab.1.left" timestamp="1586108414979">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="329" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1586108414979" />
+    <state width="914" height="329" key="GridCell.Tab.1.right" timestamp="1586108414979">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="329" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1586108414979" />
+    <state x="970" y="210" key="Maven.ArtifactSearchDialog" timestamp="1589019593729">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="970" y="210" key="Maven.ArtifactSearchDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1589019593729" />
+    <state x="0" y="129" key="SettingsEditor" timestamp="1589046569374">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="129" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1589046569374" />
+    <state x="163" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1588943723101">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="163" y="379" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1588943723101" />
+    <state x="224" y="443" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589046312644">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="224" y="443" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.30.1920.1050@0.30.1920.1050" timestamp="1589046312644" />
+    <state x="155" y="293" width="961" height="604" key="new project wizard" timestamp="1590046632173">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="155" y="293" width="961" height="604" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1590046632173" />
+    <state x="1103" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1589103124598">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1103" y="261" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1589103124598" />
+  </component>
+</project>
